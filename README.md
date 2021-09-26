@@ -43,14 +43,14 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/brianlobo394/FIFA18Players_Analysis/issues/new). Please include sample queries and their corresponding results.
 
 ## Technologies Used
-![](https://imgur.com/eZS1QnT)\
-![](https://imgur.com/gallery/BbIipLK)\
-![](https://imgur.com/g46cyri)\
-![](https://imgur.com/6NOMTrB)\
-![](https://imgur.com/ScKt06T)
+![](https://github.com/brianlobo394/brianlobo394/blob/main/Images/pandas.jpg)\
+![](https://github.com/brianlobo394/brianlobo394/blob/main/Images/numpy.png)\
+![](https://github.com/brianlobo394/brianlobo394/blob/main/Images/pandas.jpg)\
+![](https://github.com/brianlobo394/brianlobo394/blob/main/Images/seaborn.png)\
+![](https://github.com/brianlobo394/brianlobo394/blob/main/Images/matplotlib.jpg)
 
 ## Team
-[![Brian Lobo](https://imgur.com/hkT384P)] |
+[![Brian Lobo]()] |
 -|
 
 
