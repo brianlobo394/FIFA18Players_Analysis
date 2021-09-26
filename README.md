@@ -50,7 +50,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ![](https://github.com/brianlobo394/brianlobo394/blob/main/Images/matplotlib.jpg)
 
 ## Team
-[![Brian Lobo]()] |
+[![Brian Lobo](https://github.com/brianlobo394/brianlobo394/blob/main/Images/photo_2021-09-26_14-20-51.jpg)] |
 -|
 
 
