@@ -23,16 +23,16 @@ Raw Data is being kept [here](https://github.com/brianlobo394/FIFA18Players_Anal
 
 The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip.
 
->### **Windows User**
+### **Windows User**
 For Windows OS users, here I collected some helpful resource on adding User Environment Variables in Windows.
 
->> ##### **Attention**: *Please perform the steps given in these tutorials at your own risk. Please don't mess up with the System Variables. It can potentially damage your PC. You should know what you're doing.*
+##### **Attention**: (*Please perform the steps given in these tutorials at your own risk. Please don't mess up with the System Variables. It can potentially damage your PC. You should know what you're doing*)
 
-* https://www.tenforums.com/tutorials/121855-edit-user-system-environment-variables-windows.html
-* https://www.onmsft.com/how-to/how-to-set-an-environment-variable-in-windows-10
+1. https://www.tenforums.com/tutorials/121855-edit-user-system-environment-variables-windows.html
+2. https://www.onmsft.com/how-to/how-to-set-an-environment-variable-in-windows-10
 
 
->### **Linux/MacOS user**
+### **Linux/MacOS user**
 
 For Linux and Mac OS users, here I collected some helpful resource on installing Python in Linix/MacOS.
 * https://www.toolsqa.com/python/install-python/
